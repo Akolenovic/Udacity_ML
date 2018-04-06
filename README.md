@@ -1,3 +1,2 @@
 "# Udacity_ML" 
-"# Udacity_ML" 
-"# Udacity_ML" 
+# Changes submitted, 4/6/18
